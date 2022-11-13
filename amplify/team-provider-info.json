@@ -1,0 +1,59 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactamplified-dev-212208-authRole",
+      "UnauthRoleArn": "arn:aws:iam::837511507441:role/amplify-reactamplified-dev-212208-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::837511507441:role/amplify-reactamplified-dev-212208-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-reactamplified-dev-212208-deployment",
+      "UnauthRoleName": "amplify-reactamplified-dev-212208-unauthRole",
+      "StackName": "amplify-reactamplified-dev-212208",
+      "StackId": "arn:aws:cloudformation:eu-west-1:837511507441:stack/amplify-reactamplified-dev-212208/5ae918a0-6135-11ed-9637-06efe7f66513",
+      "AmplifyAppId": "d2dkfai2qbe08t"
+    },
+    "categories": {
+      "api": {
+        "reactamplified": {}
+      },
+      "auth": {
+        "reactamplified4b388a07": {}
+      }
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactamplified-test-201434-authRole",
+      "UnauthRoleArn": "arn:aws:iam::837511507441:role/amplify-reactamplified-test-201434-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::837511507441:role/amplify-reactamplified-test-201434-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-reactamplified-test-201434-deployment",
+      "UnauthRoleName": "amplify-reactamplified-test-201434-unauthRole",
+      "StackName": "amplify-reactamplified-test-201434",
+      "StackId": "arn:aws:cloudformation:eu-west-1:837511507441:stack/amplify-reactamplified-test-201434/690ce160-6387-11ed-abe9-0a2ea279f44d",
+      "AmplifyAppId": "d2dkfai2qbe08t"
+    },
+    "categories": {
+      "auth": {
+        "reactamplified4b388a07": {}
+      }
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactamplified-prod-201750-authRole",
+      "UnauthRoleArn": "arn:aws:iam::837511507441:role/amplify-reactamplified-prod-201750-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::837511507441:role/amplify-reactamplified-prod-201750-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-reactamplified-prod-201750-deployment",
+      "UnauthRoleName": "amplify-reactamplified-prod-201750-unauthRole",
+      "StackName": "amplify-reactamplified-prod-201750",
+      "StackId": "arn:aws:cloudformation:eu-west-1:837511507441:stack/amplify-reactamplified-prod-201750/ddd60940-6387-11ed-bb08-0624a64a8c0f",
+      "AmplifyAppId": "d2dkfai2qbe08t"
+    },
+    "categories": {
+      "auth": {
+        "reactamplified4b388a07": {}
+      }
+    }
+  }
+}
